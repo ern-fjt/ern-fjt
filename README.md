@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ern-fjt, a begginer of python.
+- 👋 Hi, I’m @erin-fj, a begginer of python.
 - 👀 I’m interested in Material Informatics.
 - 🌱 I’m currently learning t-SNE.
 - 💞️ I’m looking to collaborate on something fun!
